@@ -1,6 +1,6 @@
 ### Olá me chamo Pedro Xavier, Seja bem vindo(a)!
 
-- Estudando Realidade Aumentada na Indústria.👩‍💻
+- Estudando Realidade Aumentada na Indústria.
 - Técnico em Engenharia Mecânica.
 - Cursando Engenharia de Controle e Automação. 
 
